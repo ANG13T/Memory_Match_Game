@@ -1,0 +1,19 @@
+body{
+    background-image: url("underwater.jpg");
+    background-size: cover;
+}
+
+.game-board {
+    border: 5px solid black;  
+    text-align: center;
+}
+.game-card {
+    width: 18%;
+    height: 20vh;
+    border: 5px solid black;
+    background-color: white;
+    display: inline-block;        }
+h1 {
+    text-align: center;
+    color: white;
+}
