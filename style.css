@@ -1,5 +1,5 @@
 body{
-    background-image: url("sea-water-1666310_1920.jpg");
+    background-image: url("./images/ocean-background.png");
     background-size: cover;
 }
 
@@ -7,16 +7,20 @@ body{
     border-radius: 0.4rem;
     text-align: center;
     background: linear-gradient(to right, #36d1dc, #5b86e5);
+    width:95vh;
+    margin:20px auto;
+    padding-bottom: 1.3vh;
 }
 .game-card {
-    width: 18%;
-    height: 22vh;
+    width: 13vh;
+    height: 13vh;
     border-radius: 0.4rem;
     background-color: rgb(56, 55, 55);
     display: inline-block; 
-    margin-top: 1rem;
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;     
+    margin-top: 1.3vh;
+    margin-left: 0.8vh;
+    margin-right: 0.8vh;
+    background-size: cover;     
 }
 h1 {
     text-align: center;
